@@ -1,4 +1,4 @@
-# Pasos para hacer un pequeño App que detecte Caras (Faces) y Ojos (Eyes)
+# Pasos para hacer un pequeño App que detecte Rostro (Face) y Ojos (Eyes)
 
 Pasos para que puedas realizar tu propio app de face and Eye Detection (detección de rostro y ojos), en la siguiente publicación vamos a crear nuestro propio archivo entrenada para que no solo puedas detectarlo sino reconocer, no solo personas, sino objetos y mucho más...
 
