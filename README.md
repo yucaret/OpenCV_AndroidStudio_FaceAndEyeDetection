@@ -30,10 +30,10 @@ Pasos para que puedas realizar tu propio face and Eye Recognition
 
   ![image](https://user-images.githubusercontent.com/31372472/49700532-dff3a200-fbad-11e8-9670-4fa813e769e5.png)
   
-  Para buscar esos dos archivos dentro de la aplicación van a tener que acceder por la siguiente ruta, la cual es la estructura de ruta del sistema de archivo de Android:
+   Para buscar esos dos archivos dentro de la aplicación van a tener que acceder por la siguiente ruta, la cual es la estructura de ruta del sistema de archivo de Android:
   
-  /storage/emulated/0/data
-  
+   /storage/emulated/0/data
+
 7) Luego compilan e instalan en su celular (esto lo hace el mismo Android Studio al darle en el icono de cabeza de flecha verde)
 
 8) Deben de darle los permisos en el celular a la App creada, como de Camara y Almacenamiento, deben de ingresar a permisos de aplicación y hacer como lo que se ve en la imagen:
@@ -42,5 +42,6 @@ Pasos para que puedas realizar tu propio face and Eye Recognition
    
 9) Ahora si funciona tu App de reconocimiento facial y de ojos:
 
+   Se que la imagen esta en azul, es algo que debo de investigar, pero funciona el reconocimiento :) !!!
    
-   
+   ![image](https://user-images.githubusercontent.com/31372472/49700781-4a5a1180-fbb1-11e8-9f3f-48e2b73e19b8.png)
