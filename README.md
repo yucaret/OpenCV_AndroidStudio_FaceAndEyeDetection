@@ -1,6 +1,6 @@
 # Pasos para hacer un pequeño App que reconozca Caras (Faces) y Ojos (Eyes)
 
-Pasos para que puedas realizar tu propio face and Eye Recognition
+Pasos para que puedas realizar tu propio face and Eye Recognition (reconocimiento de rostro y ojos)
 
 ## Requerimientos:
 
